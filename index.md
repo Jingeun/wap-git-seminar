@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 한글 
 
 You can use the [editor on GitHub](https://github.com/Violetdusk/wap-git-seminar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
