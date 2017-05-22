@@ -8,11 +8,11 @@ Git은 짱짱맨 리누스 토발즈가 처음 만든 분산 버전 관리 시�
 
 # 세미나 일시
 
-##일시
+## 일시
 
 2017년 5월 26일, 29일 오후 6시 30분 (두 세미나의 내용은 같습니다)
 
-##장소
+## 장소
 
 부경대학교 향파관 302호
 
@@ -52,13 +52,16 @@ public class Heisenberg {
     public void sayMyName(){ //메소드
         System.out.println(this.name); //콘솔 출력
     }
+
 }
 
 public class HelloGit { //클래스 정의
+
     public static void main(String[] args){ //진입점
         Heisenberg walterWhite = new Heisenberg(); //객체 생성
         walterWhite.sayMyName(); //메소드 호출
     }
+
 }
 ```
 
